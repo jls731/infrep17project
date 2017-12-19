@@ -13,7 +13,7 @@ node [shape=box] ;
 4 -> 5 ;
 6 [label="entropy = 0.061\nsamples = 8330\nvalue = [8271, 59]"] ;
 4 -> 6 ;
-7 [label="X[37] <= 0.5\nentropy = 0.01\nsamples = 1167\nvalue = [1166, 1]"] ;
+7 [label="X[38] <= 0.5\nentropy = 0.01\nsamples = 1167\nvalue = [1166, 1]"] ;
 3 -> 7 ;
 8 [label="entropy = 0.0\nsamples = 1155\nvalue = [1155, 0]"] ;
 7 -> 8 ;
